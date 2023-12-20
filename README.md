@@ -10,7 +10,7 @@ utilizes Framer Motion for smooth animations.
 
 # Features
 
-Server-side rendering for improved performance
-Server actions for efficient backend handling
-Infinite scroll for seamless content browsing
-Framer Motion animations for enhanced user interface
+*Server-side rendering for improved performance
+*Server actions for efficient backend handling
+*Infinite scroll for seamless content browsing
+*Framer Motion animations for enhanced user interface
